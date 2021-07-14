@@ -3,7 +3,7 @@
 
 # 모든 식량 정보 입력 받기
 # array = list(map(int, input().split()))
-array = [1 ,20, 3, 5 , 100, 40, 77,50,4,3]
+array = [1 ,3,1,5]
 n=len(array)
 # 앞서 계산된 결과를 저장하기 위한 DP 테이블 초기화
 d = [0] * 100
