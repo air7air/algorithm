@@ -33,4 +33,3 @@ for student in students:
 #
 # students=[['a', '2', '3', '5'], ['b', '2', '3', '4'], ['c', '7', '3', '4']]
 # n=len(students)
-
